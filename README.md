@@ -14,8 +14,6 @@ This is a website displaying information associated with the UW bootcamp. It is 
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 1. The student must download the starter code from bootcamp module 2 to their local machine.
 2. The student must download the command line interface Git Bash.
 3. The student must generate SSH keys to connec their local machine to their Git Hub account.
@@ -25,7 +23,6 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
 
 1. The student can then edit the website from VS Code.
 2. The student can update the Git Hub repository using Git Bash.
@@ -33,12 +30,6 @@ Provide instructions and examples for use. Include screenshots as needed.
 ![alt text](prework-study-guide/assets/images/screenshot.jpg)
 
 ## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 This website was written by the instruction of the UW coding bootcamp.
 The following tutorials were utilized as well as others not mentioned:
@@ -63,8 +54,6 @@ Licensed under the MIT license.
 
 ---
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
 ## Badges
 
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
@@ -75,12 +64,9 @@ Badges aren't necessary, but they demonstrate street cred. Badges let other deve
 
 ## Features
 
-If your project has a lot of features, list them here.
+This project was created in VS code using HTML5, CSS and JavaScript with Google Chrome.
 
 ## How to Contribute
 
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
