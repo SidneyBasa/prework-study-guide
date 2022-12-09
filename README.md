@@ -2,7 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This is a website displaying information associated with the UW bootcamp. It is a pre-work assignment to prepare the student for the bootcamp. This web page was created to demonstrate the usage of GitHub. It is constructed with command lines utilizing Command Line Interface software Git Bash.
 
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
