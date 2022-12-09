@@ -37,15 +37,19 @@ The following tutorials were utilized as well as others not mentioned:
    https://developer.mozilla.org/en-US/docs/Web/CSS
 
 2. Git Command cheat sheet: 
+   
    https://education.github.com/git-cheat-sheet-education.pdf
 
 3. Creating a CSS card class: 
+   
    https://developer.mozilla.org/en-US/docs/Web/CSS
 
 4. An introduction to GitHub by instructor Malaika Carpenter:  
+   
    https://digital.gov/resources/an-introduction-github/
  
 5. Creating a GitHub Repository with a README file: 
+   
    https://courses.bootcampspot.com/courses/2937/pages/2-dot-3-6-create-a-github-repository-with-a-readme-file?module_item_id=779230
 
 ## License
