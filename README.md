@@ -60,17 +60,9 @@ Licensed under the MIT license.
 
 ## Badges
 
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/SidneyBasa/pre-work/website/total?logo=github&style=plastic)
 
 ## Features
 
 This project was created in VS code using HTML5, CSS and JavaScript with Google Chrome.
-
-## How to Contribute
-
-## Tests
 
