@@ -30,7 +30,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 1. The student can then edit the website from VS Code.
 2. The student can update the Git Hub repository using Git Bash.
 
-![alt text](assets/images/screenshot.jpg)
+![alt text](prework-study-guide/assets/images/screenshot.jpg)
 
 ## Credits
 
